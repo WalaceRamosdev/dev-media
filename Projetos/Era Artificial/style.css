@@ -1,0 +1,45 @@
+div {
+    padding: 50px;
+    border-bottom: 1px solid black;
+}
+
+h1 {
+    text-align: center;
+    font-family: Tahoma;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    font-family: Tahoma;
+
+}
+
+h3 {
+    font-family: Tahoma;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-family: Tahoma;
+}
+
+a {
+    margin: 0 auto;
+    padding: 10px;
+    font-family: Tahoma;
+    font-weight: bold;
+    color: white;
+    background-color: #47ba6d;
+    display: block;
+    text-decoration: none;
+    border-radius: 25px;
+}
+
+
+img {
+    display: block;
+    margin: auto;
+    width: 190px;
+}
