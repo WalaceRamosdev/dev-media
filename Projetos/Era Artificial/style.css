@@ -26,15 +26,22 @@ p {
 }
 
 a {
-    margin: 0 auto;
+    width: 80px;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    gap: 4px; 
     padding: 10px;
     font-family: Tahoma;
     font-weight: bold;
     color: white;
     background-color: #47ba6d;
-    display: block;
     text-decoration: none;
     border-radius: 25px;
+}
+
+span {
+    font-weight: bold;
 }
 
 
