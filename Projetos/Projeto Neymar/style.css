@@ -17,7 +17,7 @@
     width: 200px;
     height: 200px;
     background-color: black;
-    border: 5px solid red;
+    border: 5px solid linear-gradient(90deg, #ffdf00, #009c3b);
     border-radius: 100%;
     display: flex;
     align-items: center;
